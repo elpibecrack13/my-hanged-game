@@ -86,7 +86,7 @@ function App() {
         {/* Mensaje si ganó */}
         {
           ( won ) 
-          ? <h2>Felicidades, usted ganó</h2>
+          ? <h2>¡Felicidades, ganaste!</h2>
           : ''
         }
 
